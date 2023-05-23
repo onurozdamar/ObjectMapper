@@ -48,7 +48,7 @@ internal class Program
                 Age = 8
             };
 
-            Target target = mapper.MapObjects(source);
+            Target target = mapper.MapObject(source);
         }
 
         stopwatch.Stop();

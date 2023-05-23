@@ -37,7 +37,7 @@ namespace ObjectMapper
             }
         }
 
-        public TTarget MapObjects(TSource source)
+        public TTarget MapObject(TSource source)
         {
             var target = new TTarget();
 
