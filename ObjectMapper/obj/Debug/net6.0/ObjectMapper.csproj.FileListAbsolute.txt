@@ -1,0 +1,15 @@
+/Users/onurozdamar/Projects/ObjectMapper/ObjectMapper/bin/Debug/net6.0/ObjectMapper
+/Users/onurozdamar/Projects/ObjectMapper/ObjectMapper/bin/Debug/net6.0/ObjectMapper.deps.json
+/Users/onurozdamar/Projects/ObjectMapper/ObjectMapper/bin/Debug/net6.0/ObjectMapper.runtimeconfig.json
+/Users/onurozdamar/Projects/ObjectMapper/ObjectMapper/bin/Debug/net6.0/ObjectMapper.dll
+/Users/onurozdamar/Projects/ObjectMapper/ObjectMapper/bin/Debug/net6.0/ref/ObjectMapper.dll
+/Users/onurozdamar/Projects/ObjectMapper/ObjectMapper/bin/Debug/net6.0/ObjectMapper.pdb
+/Users/onurozdamar/Projects/ObjectMapper/ObjectMapper/obj/Debug/net6.0/ObjectMapper.csproj.AssemblyReference.cache
+/Users/onurozdamar/Projects/ObjectMapper/ObjectMapper/obj/Debug/net6.0/ObjectMapper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/onurozdamar/Projects/ObjectMapper/ObjectMapper/obj/Debug/net6.0/ObjectMapper.AssemblyInfoInputs.cache
+/Users/onurozdamar/Projects/ObjectMapper/ObjectMapper/obj/Debug/net6.0/ObjectMapper.AssemblyInfo.cs
+/Users/onurozdamar/Projects/ObjectMapper/ObjectMapper/obj/Debug/net6.0/ObjectMapper.csproj.CoreCompileInputs.cache
+/Users/onurozdamar/Projects/ObjectMapper/ObjectMapper/obj/Debug/net6.0/ObjectMapper.dll
+/Users/onurozdamar/Projects/ObjectMapper/ObjectMapper/obj/Debug/net6.0/ref/ObjectMapper.dll
+/Users/onurozdamar/Projects/ObjectMapper/ObjectMapper/obj/Debug/net6.0/ObjectMapper.pdb
+/Users/onurozdamar/Projects/ObjectMapper/ObjectMapper/obj/Debug/net6.0/ObjectMapper.genruntimeconfig.cache
